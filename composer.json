@@ -1,0 +1,12 @@
+{
+    "name": "yangqiabo/package",
+    "description": "test package for composer.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"YangQiaBo\\Package\\": "src"}
+    }
+}
