@@ -1,1 +1,1 @@
-# package
+# A test package for composer.
